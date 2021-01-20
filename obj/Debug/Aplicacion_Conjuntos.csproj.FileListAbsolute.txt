@@ -1,0 +1,21 @@
+c:\users\cj\documents\visual studio 2015\Projects\Aplicacion_Conjuntos\Aplicacion_Conjuntos\bin\Debug\Aplicacion_Conjuntos.exe.config
+C:\Users\CJ\Documents\Visual Studio 2015\Projects\Aplicacion_Conjuntos\Aplicacion_Conjuntos\bin\Debug\Aplicacion_Conjuntos.exe
+C:\Users\CJ\Documents\Visual Studio 2015\Projects\Aplicacion_Conjuntos\Aplicacion_Conjuntos\bin\Debug\Aplicacion_Conjuntos.pdb
+C:\Users\CJ\Documents\Visual Studio 2015\Projects\Aplicacion_Conjuntos\Aplicacion_Conjuntos\obj\Debug\Aplicacion_Conjuntos.FrmConjuntoDoble.resources
+C:\Users\CJ\Documents\Visual Studio 2015\Projects\Aplicacion_Conjuntos\Aplicacion_Conjuntos\obj\Debug\Aplicacion_Conjuntos.Properties.Resources.resources
+C:\Users\CJ\Documents\Visual Studio 2015\Projects\Aplicacion_Conjuntos\Aplicacion_Conjuntos\obj\Debug\Aplicacion_Conjuntos.csproj.GenerateResource.Cache
+C:\Users\CJ\Documents\Visual Studio 2015\Projects\Aplicacion_Conjuntos\Aplicacion_Conjuntos\obj\Debug\Aplicacion_Conjuntos.exe
+C:\Users\CJ\Documents\Visual Studio 2015\Projects\Aplicacion_Conjuntos\Aplicacion_Conjuntos\obj\Debug\Aplicacion_Conjuntos.pdb
+C:\Users\CJ\Documents\Visual Studio 2015\Projects\Aplicacion_Conjuntos\Aplicacion_Conjuntos\obj\Debug\Aplicacion_Conjuntos.csprojAssemblyReference.cache
+C:\Users\CJ\Documents\Visual Studio 2015\Projects\Aplicacion_Conjuntos\Aplicacion_Conjuntos\obj\Debug\Aplicacion_Conjuntos.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Aplicacion_Conjuntos\Aplicacion_Conjuntos\Aplicacion_Conjuntos\bin\Debug\Aplicacion_Conjuntos.exe.config
+C:\Users\USER\Desktop\Aplicacion_Conjuntos\Aplicacion_Conjuntos\Aplicacion_Conjuntos\bin\Debug\Aplicacion_Conjuntos.exe
+C:\Users\USER\Desktop\Aplicacion_Conjuntos\Aplicacion_Conjuntos\Aplicacion_Conjuntos\bin\Debug\Aplicacion_Conjuntos.pdb
+C:\Users\USER\Desktop\Aplicacion_Conjuntos\Aplicacion_Conjuntos\Aplicacion_Conjuntos\obj\Debug\Aplicacion_Conjuntos.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\Aplicacion_Conjuntos\Aplicacion_Conjuntos\Aplicacion_Conjuntos\obj\Debug\Aplicacion_Conjuntos.FrmConjuntoDoble.resources
+C:\Users\USER\Desktop\Aplicacion_Conjuntos\Aplicacion_Conjuntos\Aplicacion_Conjuntos\obj\Debug\Aplicacion_Conjuntos.Properties.Resources.resources
+C:\Users\USER\Desktop\Aplicacion_Conjuntos\Aplicacion_Conjuntos\Aplicacion_Conjuntos\obj\Debug\Aplicacion_Conjuntos.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\Aplicacion_Conjuntos\Aplicacion_Conjuntos\Aplicacion_Conjuntos\obj\Debug\Aplicacion_Conjuntos.exe
+C:\Users\USER\Desktop\Aplicacion_Conjuntos\Aplicacion_Conjuntos\Aplicacion_Conjuntos\obj\Debug\Aplicacion_Conjuntos.pdb
+C:\Users\USER\Desktop\Aplicacion_Conjuntos\Aplicacion_Conjuntos\Aplicacion_Conjuntos\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\USER\Desktop\Aplicacion_Conjuntos\Aplicacion_Conjuntos\Aplicacion_Conjuntos\obj\Debug\Aplicacion_Conjuntos.csproj.CopyComplete
